@@ -1,11 +1,10 @@
-<div align="center">
-<h1> 👋 Hi, I'm Rohail Taha </h1>
-</div>
 
-<p align="center">A Full Stack Web Developer in love with clean and simple code. </p>
+## 👋 Hi, I'm Rohail Taha
+
+A Full Stack Web Developer in love with clean and simple code.
 
 ### 💻 Tools and Technologies
-HTML, CSS, JavaScript, React.js, Next.js react Node.js, Express, MongoDB, MySQL, Git, Webpack, TypeScript, PHP, Laravel
+HTML, CSS, JavaScript | Typescript, React.js, Next.js, Node.js, Express, MongoDB, MySQL, Git | GitHub, PHP, Laravel
 
 
 ### 🌐 Connect with me
