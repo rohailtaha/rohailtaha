@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+<h1> 👋 Hi, I'm Rohail Taha </h1>
+</div>
 
-<!--
-**rohailtaha/rohailtaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">A Full Stack Web Developer in love with clean and simple code. </p>
 
-Here are some ideas to get you started:
+### 💻 Tools and Technologies
+HTML, CSS, JavaScript, React.js, Next.js react Node.js, Express, MongoDB, MySQL, Git, Webpack, TypeScript, PHP, Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌐 Connect with me
+
+- [LinkedIn](https://github.com/rohailtaha/rohailtaha/blob/main/linkedin.svg)
+- [GitHub](https://github.com/rohailtaha/rohailtaha/blob/main/github.svg)
+- [Twitter](https://twitter.com/rohail_taha)
