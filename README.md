@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I'm Rohail Taha
 
-A Full Stack Web Developer from Pakistan.
+A Full Stack Web Developer.
 
 ### 💻 Tools and Technologies
 HTML, CSS, JavaScript | Typescript, React.js, Next.js, Node.js, Express, MongoDB, MySQL, Git | GitHub, PHP, Laravel
