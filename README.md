@@ -4,7 +4,7 @@
 A Full Stack Web Developer.
 
 ### 💻 Tools and Technologies
-HTML, CSS, JavaScript | Typescript, React.js, Next.js, Node.js, Express, PostgreSQL, MongoDB, MySQL, Git | GitHub
+HTML, CSS, JavaScript | TypeScript, React.js, Next.js, Node.js, Express, PostgreSQL, MongoDB, MySQL, Git | GitHub
 
 
 ### 🌐 Connect with me
